@@ -36,5 +36,5 @@ tidy_data.txt, which contains the data set
 
 CodeBook.md, is a code book which describes the variables, data and transformations performed to clean up the data
 
-run_analysis.R, main R script used to create the data set 
-
+run_analysis.R, main R script used to create the data set; pre-requirements to run the script: Install "stringi" and "reshape2" packages
+(the previous script was built and tested using RStudio)
