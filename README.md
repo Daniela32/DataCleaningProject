@@ -34,7 +34,7 @@ This repository contains the following files:
 
 tidy_data.txt, which contains the data set
 
-CodeBook.md, is a code book which describes the content of the data set
+CodeBook.md, is a code book which describes the variables, data and transformations performed to clean up the data
 
 run_analysis.R, main R script used to create the data set 
 
