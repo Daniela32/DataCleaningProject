@@ -2,17 +2,17 @@ This Code Book describes the variables, data and transformations performed to cl
 
 Identifiers:
 
-    Subject - ID of the test subject
-    Activity - Type of activity performed
+- Subject - ID of the test subject
+- Activity - Type of activity performed
 
 Activity Labels:
 
-    WALKING (1): subject walking during the test
-    WALKING_UPSTAIRS (2): subject walking up a staircase during the test
-    WALKING_DOWNSTAIRS (3): subject walking down a staircase during the test
-    SITTING (4): subject sitting during the test
-    STANDING (5): subject standing during the test
-    LAYING (6): subject laying down during the test
+- WALKING (1): subject walking during the test
+- WALKING_UPSTAIRS (2): subject walking up a staircase during the test
+- WALKING_DOWNSTAIRS (3): subject walking down a staircase during the test
+- SITTING (4): subject sitting during the test
+- STANDING (5): subject standing during the test
+- LAYING (6): subject laying down during the test
 
 Measurements (time domain, prefixed by t; and frequency domain, prefixed by f):
 
@@ -23,6 +23,7 @@ Measurements (time domain, prefixed by t; and frequency domain, prefixed by f):
 - Gyro: Angular velocity (mean and standard deviation) in x, y, and z direction
 - Mag: Magnitude
 - Freq: Frequency
+
 
     tBodyAccMeanX
     
