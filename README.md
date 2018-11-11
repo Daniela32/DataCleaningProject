@@ -27,7 +27,10 @@ Workflow to create the data set:
 - Write the data set to the tidy_data.txt file (this file is created after running the main R script)
 
 This repository contains the following files:
+
 tidy_data.txt, which contains the data set
+
 CodeBook.md, is a code book which describes the content of the data set
+
 run_analysis.R, main R script used to create the data set 
 
