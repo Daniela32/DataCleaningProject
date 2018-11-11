@@ -1,6 +1,6 @@
 #--------------------------------------------------------------------------------------------------------------
 #Project: To demonstrate the ability to collect, work with, and clean a data set.
-#Goal: To prepara tidy data that can be used for later analysis
+#Goal: To prepare tidy data that can be used for later analysis
 #by DG
 #--------------------------------------------------------------------------------------------------------------
 
